@@ -1,0 +1,32 @@
+body{
+    background-color: #66FF99;
+    font-family: Times;
+    color: #000066;
+}
+
+a[href="https://www.linkedin.com/in/arthur-henrique-caron-4b6384288/"]{
+    text-decoration: underline wavy;
+}
+
+.periodo{
+    font-weight: bold;
+}
+
+a{
+    color: #C70063;
+}
+
+a:hover{
+    color: #A400DB;
+}
+
+#habilidadelista{
+    font-style: italic;
+}
+
+.roboto-habilidades {
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+}
